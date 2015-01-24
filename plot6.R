@@ -25,4 +25,3 @@ g + geom_line(stat = "summary", fun.y = "sum") +
 
 dev.off()
 
-
